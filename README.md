@@ -1,2 +1,2 @@
 # CRUD-PHP
-CRUD  de usuarios hecho en PHP
+CRUD en en PHP
